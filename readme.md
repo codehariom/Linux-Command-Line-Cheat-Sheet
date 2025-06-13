@@ -67,6 +67,7 @@ This cheat sheet provides a **comprehensive** list of **essential Linux commands
 | `ls -al` | List **all files (including hidden)** |
 | `pwd` | Show **current directory** |
 | `mkdir dirname` | **Create a directory** |
+| `rmdir dirname` | **Remove a directory** |
 | `rm file` | **Delete a file** |
 | `rm -rf dirname` | **Force-delete a directory** |
 | `cp file1 file2` | **Copy a file** |
@@ -161,6 +162,16 @@ This cheat sheet provides a **comprehensive** list of **essential Linux commands
 | `du -sh dir/` | **Directory size** |
 | `fdisk -l` | List **partitions** |
 | `mount /dev/sda1 /mnt` | **Mount a filesystem** |
+
+
+## **💾 13. File Editor**  
+| Command | Description |
+|---------|-------------|
+| `ex` | Show **basic editor** |
+| `vi` | **visual editor** |
+| `nano` |  **pico clone** |
+| `view` | **view file only** |
+
 
 ---
 
